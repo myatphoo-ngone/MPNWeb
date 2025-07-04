@@ -210,6 +210,7 @@ nav button{
     justify-content: center;
     align-items: center;
     font-size: 3rem;
+    object-fit: contain;
     background-color: #eee;
   }
 
